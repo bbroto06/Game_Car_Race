@@ -1,3 +1,4 @@
+# Game Code
 import pygame, random, sys ,os,time
 from pygame.locals import *
 
